@@ -8,7 +8,7 @@
 This is the HelloWorld-Hash Computer Guide.
 Copyright (C) 2015-2020
   HelloWorld-Hash Information Technology Studying Association
-See the file LISENSE for copying conditions.
+See the file LICENSE for copying conditions.
 
 Permission is granted to copy, distribute and/or modify this
 document under the terms of the GNU Free Documentation License,
