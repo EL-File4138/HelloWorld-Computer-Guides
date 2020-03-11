@@ -4,7 +4,7 @@
     本项目所有内容均遵守 [GNU自由文档许可证 v1.3 (FDLv1.3)](http://www.gnu.org/licenses/fdl-1.3.html) ，版权声明文本如下：
     
     ```
-    This is part of the HelloWorld-Hash Computer Guide.
+    This is the HelloWorld-Hash Computer Guide.
     Copyright (C) 2015-2020
       HelloWorld-Hash Information Technology Studying Association
     See the file LISENSE for copying conditions.
