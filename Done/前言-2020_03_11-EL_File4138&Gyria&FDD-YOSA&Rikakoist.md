@@ -1,5 +1,8 @@
 # 前言
 
+*Author: EL_File4138, Gyria*
+*Editor: FDD-YOSA, Rikakoist*
+
 ## 序
 
 各位Helloworld的社员们大家好，恭喜你们经过层层选拔，最终成为一名Helloworld信息技术交流协会的正式社员。
