@@ -51,11 +51,11 @@ is included in the section entitled "GNU Free Documentation License".
 
 ## 编写/参与者名单
 *（名称以首字母排序，汉语名称在前。）*
-编写者：魚龍龍，EL_File4138，Gyria，Hayesz，Rikakoist，YuanchenZhu2020
+编写者：魚龍龍，EL_File4138，Gyria，Hayes，Rikakoist，YuanchenZhu2020
 
 配图来源：
-- 矢量绘制：EL_File4138，Hayesz，Quame
-- 拍摄：Hayesz，Rikakoist
+- 矢量绘制：EL_File4138，Hayes，Quame
+- 拍摄：Hayes，Rikakoist
 
 ## 致谢
 感谢
