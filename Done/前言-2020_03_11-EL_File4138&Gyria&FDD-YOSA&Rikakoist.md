@@ -1,8 +1,8 @@
 # 前言
 
-*Author: EL_File4138, Gyria*
+*Author: EL_File4138&Gyria*
 
-*Editor: FDD-YOSA, Rikakoist*
+*Editor: FDD-YOSA&Rikakoist*
 
 ## 序
 
