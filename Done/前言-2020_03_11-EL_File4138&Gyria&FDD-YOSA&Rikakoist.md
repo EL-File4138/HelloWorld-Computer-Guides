@@ -51,7 +51,9 @@ is included in the section entitled "GNU Free Documentation License".
 
 ## 编写/参与者名单
 *（名称以首字母排序，汉语名称在前。）*
-编写者：魚龍龍，EL_File4138，Gyria，Hayes，Rikakoist，YuanchenZhu2020
+作者：魚龍龍，EL_File4138，Gyria，YuanchenZhu2020
+编辑：魚龍龍，EL_File4138，Gyria，Hayes，LiusToGo，Rikakoist，YuanchenZhu2020
+校对：EL_File4138，Hayes，LiusToGo，Quame，Rikakoist
 
 配图来源：
 - 矢量绘制：EL_File4138，Hayes，Quame
